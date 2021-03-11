@@ -66,4 +66,5 @@ function startOver() {
     sessionStarted = false;
     level = 0;
     gamePattern = [];
+    userClickedPattern = [];
 }
